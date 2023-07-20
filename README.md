@@ -1,6 +1,6 @@
 # Stable Defi Token
 
-This is a Solidity Project which is created with the help of following Youtube [Course](https://youtu.be/pUNSHPyVryU)
+This is a Solidity Project which is created with the help of following Youtube [Course](https://youtu.be/wUjYK5gwNZs)
 
 This project take collateral from users and mint stable coin for them. This project is created for learning purpose only.
 
